@@ -1,2 +1,2 @@
 # Text-manipulation-support-tool
-The tool helps you support many advanced ways of searching, adding, editing, deleting, and abbreviating in text.
+This tool supports many advanced ways to search, add, edit, delete and abbreviate in text.
